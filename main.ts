@@ -388,7 +388,7 @@ const STORIES: Story[] = [
   {
     kicker: "DIPLOMACY",
     color: NAVY,
-    headline: "TRUMP, XI AND PUTIN ISSUE PEACE PACT",
+    headline: "TRUMP, XI AND PUTIN ISSUE PEACE DECLARATION",
     summary:
       "First three-way summit in Shenzhen ends with a four-point declaration toward peace.",
     place: "SHENZHEN, CHINA",
@@ -408,16 +408,16 @@ const STORIES: Story[] = [
     color: RED,
     headline: "MISSILE HITS RIYADH'S TALLEST TOWER",
     summary:
-      "Houthis claim strikes on four Saudi targets; a tanker burns after hitting a mine near Hormuz.",
+      "Houthi missiles damage Riyadh's tallest tower; two tankers hit mines and burn near Hormuz.",
     place: "RIYADH, SAUDI ARABIA",
     pic: picTower,
   },
   {
     kicker: "WEATHER",
     color: TEAL,
-    headline: "STORM DANA: INDIA MOVES 80,000",
+    headline: "CYCLONE AKVAN: INDIA MOVES 47,000",
     summary:
-      "Authorities evacuate coastal districts as the tropical storm bears down on the east coast.",
+      "Odisha evacuates 47,000 people as the cyclone closes on the east coast.",
     place: "EAST COAST, INDIA",
     pic: picStorm,
   },

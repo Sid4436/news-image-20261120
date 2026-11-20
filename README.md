@@ -12,10 +12,10 @@ A newspaper-style infographic summing up the world's news of **Friday 20 Novembe
 
 1. **UKRAINE — Kyiv hit by missiles overnight.** Russia fired ballistic missiles at the capital, damaging three bridges over the Dnipro river. (Reported 20 Nov 2026; en.h.ua, Daily Baku)
 2. **JUSTICE — UN court: Myanmar guilty of genocide.** The International Court of Justice ruled the 2017 campaign against the Rohingya was genocide. (The Hindu, 20 Nov 2026; BBC/Le Monde)
-3. **DIPLOMACY — Trump, Xi and Putin issue peace pact.** The first three-way summit in Shenzhen ended with a four-point declaration toward peace. (The Hindu, 20 Nov 2026; Le Monde)
+3. **DIPLOMACY — Trump, Xi and Putin issue peace declaration.** The first three-way summit in Shenzhen ended with a four-point declaration toward peace. (The Hindu, 20 Nov 2026; Le Monde)
 4. **MARKETS — Anthropic soars in record IPO debut.** The AI firm's shares jumped on Wall Street as world stocks slid for a fifth straight day. (BBC/Jabulani Radio, 20 Nov 2026; One Turn)
-5. **GULF — Missile hits Riyadh's tallest tower.** Houthis claimed strikes on four Saudi targets; a tanker burned after hitting a mine near the Strait of Hormuz. (EIN Presswire/News.Az, 20 Nov 2026; Daily Baku)
-6. **WEATHER — Storm Dana: India moves 80,000.** Authorities evacuated coastal districts as the tropical storm bore down on the east coast. (Daily Baku, 20 Nov 2026)
+5. **GULF — Missile hits Riyadh's tallest tower.** Houthi missiles damaged Riyadh's tallest tower; two tankers hit mines and burned near the Strait of Hormuz. (Reuters, 20 Nov 2026)
+6. **WEATHER — Cyclone Akvan: India moves 47,000.** Odisha evacuated 47,000 people as Cyclone Akvan closed on the east coast. (Reuters, 19 Nov 2026)
 
 ## Run it
 
